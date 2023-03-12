@@ -1,0 +1,17 @@
+This is demo application using the various operatios of SQL
+
+1. C - Create
+2. R -Read
+3. U - Update
+4. D - Delete
+
+
+Utilizing SQLite which is an offline database
+
+
+I have been able to complete all database operations for the app
+
+
+3:02 am 11/02/2023
+
+before refactoring

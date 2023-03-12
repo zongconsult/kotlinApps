@@ -1,0 +1,39 @@
+This is an empty Kotlin project that has been synchronized with gradle
+
+ChangeLog
+=========
+
+
+1. Adding to database has been implemented
+2. Deleting from the database has been implemented
+3. Update title and description has been implemented
+
+
+ChangeLog
+=========
+
+I have been able to implement calling the fields from database into the text fields for editing
+on the Edit lyric Activity Screen
+
+This is called using the ID of the lyric that has been clicked on the view button
+
+The next step will be to update the fields that been been changed into the database
+
+and the implement newfields in the database for lyrics
+
+Database Structure
+==================
+
+- ID
+- Title
+- Description
+- Lyrics
+
+
+
+
+Add Lyrics Activity
+===================
+
+Columns: Title, Description & Lyrics
+
